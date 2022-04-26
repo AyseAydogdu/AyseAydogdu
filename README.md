@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayşe</h1>
 <h3 align="center">Software Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Spring Framework, Hibernate, NoSQL**
+- 🌱 I’m currently learning **Java Spring Framework, Hibernate, NoSQL**
 
 - 📫 How to reach me **ayseaydogdu122@gmail.com**
 
